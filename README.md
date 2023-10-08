@@ -18,11 +18,12 @@
 ## With event handlers:
 
 * With or Without user interaction
+  
    > With User Interaction
    * onload
-
-  * onerror
-   > Wihtout User Interaction  
+   * onerror
+   > Wihtout User Interaction
+   
   * onerror 
   * onload
   
