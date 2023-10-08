@@ -9,7 +9,7 @@
 
 * [Inline Script] <script>alert()</script>
 
-* [External Script] <script src=https://myserver.com/jsthegreat.js></script>
+* [External Script] <code> <script src=https://myserver.com/jsthegreat.js></script> </code>
 
 ### With event handlers:
 
