@@ -7,7 +7,7 @@
 
 ### Script tag
 
-* [Inline Script] <script>alert()</script>
+* [Inline Script] <code> <script>alert()</script> </code>
 
 * [External Script] <code> <script src=https://myserver.com/jsthegreat.js></script> </code>
 
