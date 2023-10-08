@@ -16,8 +16,8 @@
 * With or Without user interaction
   
    > With User Interaction
-   * onload
-   * onerror
+   * onclick
+   * onmouseover
 
    > Wihtout User Interaction
    * onerror 
