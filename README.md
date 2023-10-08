@@ -1,11 +1,7 @@
 
 # Reflected XSS:
 
-  
-
 ## How XSS works: When the input directly goes in a particular code section where javascript can be executed.
-
-  
 
 ## Where you can execute script
 
@@ -29,7 +25,8 @@
  
 ### In URL:
 
-* javascript:alert()  
+* javascript:alert()
+  > https://redacted.com/login?return=javascript:alert()
 
 ## Methodology:
 
