@@ -30,16 +30,19 @@
 
 ## Methodology:
 
-  
-
 * Identifying Entry Points:
 
->Parameters, Form Fields, Cookies, Request Headers, Error messages
+> Parameters, Form Fields, Cookies, Request Headers, Error messages
 
 * Check for allowed Characters:
 
 > "'`<>()
 
 > script, alert, confirm, prompt
+
+* Check how the input is processed:
+
+> Is there some type of sanitization
+> Is there some type of escaping
 
 
